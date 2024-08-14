@@ -2,7 +2,7 @@
 
 Meu nome é Artur Maia 
 
-Estou estudando no [Alura](https://www.alura.com.br)
+Estou apreendendo no [Alura](https://www.alura.com.br)
 
 Estou me desenvolvendo na linguagem JavaScript
 
